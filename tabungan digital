@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> tabungan digital- aditya </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="kartu-profil">
+<img src= "WhatsAppImage02025-10-3020at10.47.34.jpeg" alt="foto profil saya">
+  <h1> aditya guna dharma</h1>
+  <p> tabungan digital. masyarakat melek teknologi !</p>n
+  <a href="https://www.instagram.com/dittzya87"> kunjungi instagram saya </a>
+  <button id="sapa buton">sapa saya!</button>
+  </div>
+  <scripct src="scripct.js"></scripct>
+</body>
+</html>
